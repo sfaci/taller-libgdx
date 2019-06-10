@@ -1,2 +1,2 @@
-# Taller-libgdx
-Taller de Desarrollo de videojuegos con libGDX
+# Taller libGDX
+Taller de Desarrollo de Videojuegos con libGDX
